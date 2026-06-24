@@ -4,7 +4,7 @@ A FOSS YouTube Music client for Android with many features from<br>Spotify, Spon
 <br>
 <a href="https://github.com/squiraldot/MuziiNap/releases"><img src="https://img.shields.io/github/v/release/squiraldot/MuziiNap"></a> <a href="https://github.com/squiraldot/MuziiNap/releases"><img src="https://img.shields.io/github/downloads/squiraldot/MuziiNap/total"></a> <br> <br>
 <h4>Download</h4>  
-<a href="https://telegram.me/muziinap/3"><img src="https://github.com/squiraldot/MuziiNap/blob/main/asset/20260623_032118.png?raw=true" width="160"></a>  
+<a href="https://telegram.me/muziinap/3"><img src="https://github.com/squiraldot/MuziiNap/blob/main/asset/20260623_032118.png?raw=true" width="200"></a>  
 <br>
 </div>  
 
