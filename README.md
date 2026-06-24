@@ -1,10 +1,10 @@
-<div align="center"> <img src="https://github.com/squiraldot/MuziiNap/blob/main/asset/20260624_145709.png"> <h1>MuziiNap</h1>  
+<div align="center"> <img src="https://github.com/squiraldot/MuziiNap-Releases/blob/main/asset/20260624_145709.png"> <h1>MuziiNap</h1>  
 A FOSS YouTube Music client for Android with many features from<br>Spotify, SponsorBlock, ReturnYouTubeDislike using Compose Multiplatform to develop.
 <br> 
 <br>
-<a href="https://github.com/squiraldot/MuziiNap/releases"><img src="https://img.shields.io/github/v/release/squiraldot/MuziiNap"></a> <a href="https://github.com/squiraldot/MuziiNap/releases"><img src="https://img.shields.io/github/downloads/squiraldot/MuziiNap/total"></a> <br> <br>
+<a href="https://github.com/squiraldot/MuziiNap-Releases/releases"><img src="https://img.shields.io/github/v/release/squiraldot/MuziiNap-Releases"></a> <a href="https://github.com/squiraldot/MuziiNap-Releases/releases"><img src="https://img.shields.io/github/downloads/squiraldot/MuziiNap-Releases/total"></a> <br> <br>
 <h4>Download</h4>  
-<a href="https://telegram.me/muziinap/3"><img src="https://github.com/squiraldot/MuziiNap/blob/main/asset/20260623_032118.png?raw=true" width="200"></a>  
+<a href="https://telegram.me/muziinap/3"><img src="https://github.com/squiraldot/MuziiNap-Releases/blob/main/asset/20260623_032118.png?raw=true" width="200"></a>  
 <br>
 </div>  
 
